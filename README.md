@@ -1,8 +1,8 @@
-### Welcome to ravenous
+# Welcome to ravenous
 
 Ravenous is a Yelp-like clone that lets you search for businesses near a location using the Yelp API.
 
-You can see the app in action at [http://groovy-can.surge.sh/](http://groovy-can.surge.sh/). 
+You can see the app in action at [http://groovy-can.surge.sh/](http://groovy-can.surge.sh/).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
